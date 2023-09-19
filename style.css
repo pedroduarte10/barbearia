@@ -25,6 +25,10 @@ em strong {
    color: #FF00000
  }
 
+ .beneficios {
+   background: #FFFFFF;
+ }
+  
 .itens {
   font-style:italic;
 }
